@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<class>
+	<student id="1001">
+		<firstname>Antonella</firstname>
+		<lastname>Solomon</lastname>
+		<nickname>The boss</nickname>
+		<favoriteFood>Pizza</favoriteFood>
+        <favoriteMovie>Hunger Games</favoriteMovie>
+	</student>
+	<student id="2001">
+		<firstname>Maurice</firstname>
+		<lastname>Tedder</lastname>
+		<nickname>Merc</nickname>
+        <favoriteFood>Tacos</favoriteFood>
+        <favoriteMovie>World War Z</favoriteMovie>
+	</student>
+    <student id="3001">
+		<firstname>Travis</firstname>
+		<lastname>Brindley</lastname>
+		<nickname>The Birdman</nickname>
+        <favoriteFood>Pizza</favoriteFood>
+        <favoriteMovie>Forrest Gump</favoriteMovie>
+	</student>
+</class>
